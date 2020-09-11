@@ -3,5 +3,7 @@ This program is for  1)Printing the memory map of the system using the C code.  
 
 Compile
 gcc memoryMap.c
+
 gcc timeDealy.c
+
 ./a.out
